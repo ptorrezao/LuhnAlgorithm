@@ -1,0 +1,6 @@
+<AnalyzeParams>
+  <TargetExecutable>C:\Program Files\dotnet\dotnet.exe</TargetExecutable>
+  <TargetArguments>test LuhnAlgorithm.Tests.csproj</TargetArguments>
+  <TargetWorkingDir>.</TargetWorkingDir>
+  <Output>../CodeCoverage/CodeCoverage.dcvr</Output>
+</AnalyzeParams>
